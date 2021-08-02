@@ -18,7 +18,8 @@ Run the main method from the RunGame class and follow the onscreen instructions.
 
 
 ##### Credit
--Ayush yadav
--Ankur burve
+- Ayush yadav
+- Ankur burve
+- Resourecs @brocodeyoutube.
 
  <p><img align="right" src="https://cdn-codespeedy.pressidium.com/wp-content/uploads/2021/04/tictactoegame.png" /></p>
